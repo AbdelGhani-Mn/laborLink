@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398577868769",
+    "project_id": "laborlink-838b7",
+    "storage_bucket": "laborlink-838b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398577868769:android:860352791357f19f48fca0",
+        "android_client_info": {
+          "package_name": "com.example.laborlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398577868769-oke2deo6u074gf447r29j21pgjucpegr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXytIDm-qTVbuEMyl0OEIkDb2HZKMmo4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398577868769-oke2deo6u074gf447r29j21pgjucpegr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
